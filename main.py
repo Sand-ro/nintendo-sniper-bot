@@ -7,7 +7,7 @@ from fake_useragent import UserAgent
 
 TOKEN = '8407177511:AAEyqTkoXa9IfKUwyRVm_4lW-yVzR75eho0'
 CHAT_ID = '6562322029'
-PREZZO_MAX = 40
+PREZZO_MAX = 55
 INTERVALLO_MINUTI = 3
 ua = UserAgent()
 bot = Bot(token=TOKEN)
